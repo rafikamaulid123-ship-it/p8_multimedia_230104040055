@@ -12,7 +12,7 @@
 ## 📸 Tangkapan Layar
 
 ### Layar Utama
-![Layar Utama](doc/Screenshot_20251226-192751.jpg)
+![Layar Utama](doc/Screenshot_20251226-192801.jpg)
 
 **Fitur:**
 - Gradient background soft pastel (cyan → mint)
@@ -23,7 +23,7 @@
 ---
 
 ### Kamera & Galeri
-![Kamera](doc/Screenshot_20251226-192801.jpg)
+![Kamera](doc/Screenshot_20251226-192751.jpg)
 ![Preview Galeri](doc/Screenshot_20251226-192804.jpg)
 
 **Fitur:**
