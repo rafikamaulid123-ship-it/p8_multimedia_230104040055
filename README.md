@@ -23,8 +23,8 @@
 ---
 
 ### Fitur Audio
-![Kamera](doc/Screenshot_20251226-192814.jpg)
-![Preview Galeri](doc/Screenshot_20251226-192804.jpg)
+![Audio](doc/Screenshot_20251226-192814.jpg)
+![Preview Audioi](doc/Screenshot_20251226-192804.jpg)
 
 **Fitur:**
 - **Buka Kamera:** Integrasi CameraX dengan switch kamera depan/belakang
@@ -35,8 +35,7 @@
 ---
 
 ### Fitur Video
-![Audio Player](doc/Screenshot_20251226-192751.jpg)
-![Audio Recorder](doc/Screenshot_20251226-192816.jpg)
+![Video Player](doc/Screenshot_20251226-192751.jpg)
 
 **Audio Player:**
 - Daftar semua file audio dari perangkat
@@ -53,7 +52,7 @@
 ---
 
 ### Camera&galery
-![Video Player](doc/Screenshot_20251226-194525.jpg)
+![Camera Player](doc/Screenshot_20251226-194525.jpg)
 
 **Fitur:**
 - Thumbnail grid (2 kolom) dengan info durasi & ukuran
