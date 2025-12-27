@@ -23,7 +23,7 @@
 ---
 
 ### Kamera & Galeri
-![Kamera](doc/Screenshot_20251226-192751.jpg)
+![Kamera](doc/Screenshot_20251226-192814.jpg)
 ![Preview Galeri](doc/Screenshot_20251226-192804.jpg)
 
 **Fitur:**
@@ -35,7 +35,7 @@
 ---
 
 ### Fitur Audio
-![Audio Player](doc/Screenshot_20251226-192814.jpg)
+![Audio Player](doc/Screenshot_20251226-192751.jpg)
 ![Audio Recorder](doc/Screenshot_20251226-192816.jpg)
 
 **Audio Player:**
